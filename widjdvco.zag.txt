@@ -1,0 +1,23 @@
+﻿Switching to generic views
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   KeyLime/__init__.pyc
+#	modified:   KeyLime/settings.pyc
+#	modified:   KeyLime/urls.pyc
+#	modified:   KeyLime/wsgi.pyc
+#	modified:   db.sqlite3
+#	modified:   polls/__init__.pyc
+#	modified:   polls/admin.pyc
+#	modified:   polls/migrations/0001_initial.pyc
+#	modified:   polls/migrations/__init__.pyc
+#	modified:   polls/models.pyc
+#	modified:   polls/urls.py
+#	modified:   polls/urls.pyc
+#	modified:   polls/views.py
+#	modified:   polls/views.pyc
+#
+
